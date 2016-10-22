@@ -1,0 +1,15 @@
+c:\users\jacob\documents\visual studio 2015\Projects\ErnstProject2\ErnstProject2\bin\Debug\ErnstProject2.exe.config
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\ErnstProject2\ErnstProject2\bin\Debug\ErnstProject2.exe
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\ErnstProject2\ErnstProject2\bin\Debug\ErnstProject2.pdb
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\ErnstProject2\ErnstProject2\bin\Debug\ErnstProject2.xml
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\ErnstProject2\ErnstProject2\obj\Debug\ErnstProject2.vbprojResolveAssemblyReference.cache
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\ErnstProject2\ErnstProject2\obj\Debug\ErnstProject2.Form1.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\ErnstProject2\ErnstProject2\obj\Debug\ErnstProject2.Resources.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\ErnstProject2\ErnstProject2\obj\Debug\ErnstProject2.vbproj.GenerateResource.Cache
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\ErnstProject2\ErnstProject2\obj\Debug\ErnstProject2.exe
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\ErnstProject2\ErnstProject2\obj\Debug\ErnstProject2.xml
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\ErnstProject2\ErnstProject2\obj\Debug\ErnstProject2.pdb
+C:\Users\enrlab\Desktop\ErnstProject2\ErnstProject2\bin\Debug\ErnstProject2.exe.config
+C:\Users\enrlab\Desktop\ErnstProject2\ErnstProject2\obj\Debug\ErnstProject2.exe
+C:\Users\enrlab\Desktop\ErnstProject2\ErnstProject2\obj\Debug\ErnstProject2.xml
+C:\Users\enrlab\Desktop\ErnstProject2\ErnstProject2\obj\Debug\ErnstProject2.pdb
